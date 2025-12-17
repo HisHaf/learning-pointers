@@ -8,4 +8,6 @@ int main()
     cout << ptr << endl;
     *ptr = 10;//changing value of variable through pointer
     cout << n;
+
+    return 0;
 }
